@@ -1,0 +1,14 @@
+uuid: 103ca441-aa41-41b4-aaee-4760c258cbeb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - mari.leipola@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
