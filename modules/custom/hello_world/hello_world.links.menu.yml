@@ -1,0 +1,13 @@
+hello_world.newpage:
+  title: 'Hello world'
+  description: 'Näytä Hello World -teksti'
+  route_name: hello_world.content
+  weight: 10
+  menu_name: main
+
+hello_world.news:
+  title: 'News of the day'
+  description: 'Näytä päivän pääuutinen'
+  route_name: hello_world.news
+  weight: 10
+  menu_name: main
